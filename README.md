@@ -1,12 +1,12 @@
 # openvpn
 
-> Tip 安装方法
+> 安装方法
 
 ```bash
 wget https://ovpn.homeryland.com -O ovpn.sh && sudo bash ovpn.sh --auto
 ```
 
-> Tip 配置客户端
+> 配置客户端
 
 ```bash
 sudo bash ovpn.sh
